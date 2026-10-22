@@ -1,0 +1,7 @@
+:root {
+  --wine: #681F2D; --burgundy: #42151F; --ivory: #F8F1E7; --rose: #E8C9CC;
+  --text: #292323; --muted: #756B66; --white: #fff; --border: #E7DDD3;
+  --font-body: 'Manrope', system-ui, sans-serif; --font-display: 'DM Serif Display', Georgia, serif;
+  --radius: 4px; --gutter: clamp(1rem, 4vw, 2.5rem); --max: 76rem;
+  --space-section: clamp(3rem, 7vw, 5.5rem);
+}
